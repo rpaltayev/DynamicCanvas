@@ -1,5 +1,5 @@
 ## Dynamic Canvas
 
-Dynamic and responsive canvas that reacts to mouse move
+#Dynamic and responsive canvas that reacts to mouse move
 
- [Click here to check out!](https://rpaltayev.github.io/DynamicCanvas/)
+#[Click here to check out!](https://rpaltayev.github.io/DynamicCanvas/)
