@@ -53,7 +53,7 @@ let mouse = {
     y: undefined
 };
 
-const maxRadius = 50;
+const maxRadius = 45;
 const minRadius = 5;
 
 let colorArray = ["#092140", "#024959", "#F2C777", "#F24738", "#BF2A2A"];
@@ -113,7 +113,7 @@ let circleArray = [];
 
 function init() {
     circleArray = [];
-    for (let i = 0; i < 500; i++) {
+    for (let i = 0; i < 350; i++) {
         let radius = Math.random() * 8 + 2;
         let x = Math.random() * (innerWidth - radius * 2) + radius;
         y = Math.random() * (innerHeight - radius * 2) + radius;
