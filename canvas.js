@@ -53,7 +53,7 @@ let mouse = {
     y: undefined
 };
 
-const maxRadius = 45;
+const maxRadius = 50;
 const minRadius = 5;
 
 let colorArray = ["#092140", "#024959", "#F2C777", "#F24738", "#BF2A2A"];
